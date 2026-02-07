@@ -1,5 +1,11 @@
 # fs-lab — System Overview
 
+## 🔗 Live Frontend
+
+#### Exploratory access (manual testing and visualization only):
+
+#### [Frontend on Render](https://fs-lab-core-react.onrender.com/)
+
 ## 🎯 Project Goal
 
 fs-lab is a multi-service system designed to benchmark and analyze cold and warm start behavior across different backend runtimes (Node.js, Python, Go) hosted on the same platform.
